@@ -1,4 +1,4 @@
-# DepoDraw Bank Auth
+# DepoDraw Bank Authentication
 ## Site-Link
 https://sourcecodebd.github.io/DepoDraw-Bank-Authentication/
 
